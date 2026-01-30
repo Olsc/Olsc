@@ -110,3 +110,14 @@
 ![Olsc](https://count.getloli.com/@Olsc)
 
 ***
+
+### 欢迎参与新项目更新
+
+欢迎和我们一同维护：https://github.com/Olsc/Android_ORB-SLAM2s
+
+<div align="center">
+  <img src="img/orb-slam2s-girl.jpg" width="100%" alt="ORB-SLAM2s Girl Image" />
+</div>
+
+***
+
