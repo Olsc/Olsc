@@ -116,7 +116,7 @@
 欢迎和我们一同维护：https://github.com/Olsc/Android_ORB-SLAM2s
 
 <div align="center">
-  <img src="img/orb-slam2s-girl.jpg" width="100%" alt="ORB-SLAM2s Girl Image" />
+  <img src="img/orb-slam2s-girl-q.jpg" width="100%" alt="ORB-SLAM2s Girl Image" />
 </div>
 
 ***
